@@ -1,0 +1,26 @@
+{
+  "name": "sql-vote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshanmufti1995/SQL-Vote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeeshanmufti1995/SQL-Vote/issues"
+  },
+  "homepage": "https://github.com/zeeshanmufti1995/SQL-Vote#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "mysql2": "^2.3.3"
+  }
+}
